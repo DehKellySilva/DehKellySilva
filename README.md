@@ -22,5 +22,5 @@
  <a href="https://discord.gg/WfkjmFXF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/denise-kelly-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Dehkelly2902/Dehkelly2902/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DehKellySilva/DehKellySilva/blob/output/github-contribution-grid-snake.svg)
  </div>
