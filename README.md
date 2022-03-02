@@ -3,7 +3,7 @@
 - 🔭 Java Web Full Stack Júnior
 - 🌱 Estudando Java Web Full Stack 
 - 💬 Contate-me no email: denisekellypereira@hotmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronome: ela/dela
 
 
 <div align="center">
