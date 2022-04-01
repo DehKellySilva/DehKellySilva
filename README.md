@@ -1,4 +1,5 @@
 ### Oie!! Eu sou a Denise Silva
+Seja bem-vinde
 
 - 🔭 Java Web Full Stack Júnior
 - 🌱 Estudando Java Web Full Stack 
