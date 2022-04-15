@@ -1,7 +1,8 @@
 ### Oie!! Eu sou a Denise Silva
 
+- Atualmente trabalhando na agência de Marketing, Adtail - Cargo ( Analista de Mídia Tagging )
 - 🔭 Java Web Full Stack Júnior
-- 🌱 Estudando Java Web Full Stack 
+- 🌱 Estudando no programa Minas Programam, Front-end
 - 💬 Contate-me no email: denisekellypereira@hotmail.com
 - 😄 Pronome: ela/dela
 
